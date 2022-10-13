@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "andrea",
+        "cognome": "savignano"
+    },
+    {
+        "id":2,
+        "name": "antonino",
+        "cognome": "chindemi"
+    },
+    {
+        "id":3,
+        "name": "bruno",
+        "cognome": "stano"
+    },
+    {
+        "id":4,
+        "name": "cristiano",
+        "cognome": "maria aliotta"
+    }
+]
